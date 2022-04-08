@@ -3,12 +3,16 @@
 		"title": "Diagnóstico 360",
 		"image": "https://www.gove.digital/wp-content/uploads/2020/11/art-check.png",
 		"link": "",
-		"description": "Faça um diagnóstico de como está sua operação no produto F360 Finanças"
+		"description": "Faça um diagnóstico de como está sua operação no produto F360 Finanças",
+		"tag": "novidades.diag",
+		"date": "2022-04-08"
 	},
 	{
 		"title": "Integração com Ifood",
 		"image": "https://www.gove.digital/wp-content/uploads/2020/11/art-check.png",
 		"link": "",
-		"description": "Tenha visibilidade da sua conciliação com o Ifood de forma automática"
+		"description": "Tenha visibilidade da sua conciliação com o Ifood de forma automática",
+		"tag": "novidades.diag",
+		"date": "2022-04-08"		
 	}
 ]
