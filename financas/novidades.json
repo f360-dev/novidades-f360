@@ -1,18 +1,26 @@
 [
 	{
 		"title": "Diagnóstico 360",
-		"image": "https://www.gove.digital/wp-content/uploads/2020/11/art-check.png",
-		"link": "",
-		"description": "Faça um diagnóstico de como está sua operação no produto F360 Finanças",
-		"tag": "novidades.diag",
-		"date": "2022-04-08"
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/diagnostico.jpg",
+		"description": "Conheça a nova tela de Diagnóstico do sistema que auxilia na identificação de inconsistências no Upload de Arquivos, Fechamento de Caixa e Conciliação.",
+		"tag": "produto",
+		"date": "2022-05-17",
+		"link": "https://f360.zendesk.com/hc/pt-br/articles/4422754767895-Diagn%C3%B3stico"
 	},
 	{
-		"title": "Integração com Ifood",
-		"image": "https://www.gove.digital/wp-content/uploads/2020/11/art-check.png",
-		"link": "",
-		"description": "Tenha visibilidade da sua conciliação com o Ifood de forma automática",
-		"tag": "novidades.diag",
-		"date": "2022-04-08"		
+		"title": "Saiba como exportar os Detalhes da DRE",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/dre.jpg",
+		"description": "Saiba como é possível exportar para o Excel os detalhes de uma linha específica da DRE.",
+		"tag": "produto",
+		"date": "2022-05-17",
+		"link": "https://f360.zendesk.com/hc/pt-br/articles/4418576517271"
+	},
+	{
+		"title": "Conheça o Relatório de Conciliação de Cartões",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/cartoes.jpg",
+		"description": "O relatório com os dados relacionados a sua conciliação de cartões pode ser gerado no Excel de uma forma simples e rápida.",
+		"tag": "produto",
+		"date": "2022-05-17",
+		"link": "https://f360.zendesk.com/hc/pt-br/articles/5248948565399"
 	}
 ]
