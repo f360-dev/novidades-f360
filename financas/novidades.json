@@ -9,24 +9,6 @@
 		"link": "https://f360.zendesk.com/hc/pt-br/articles/4422754767895-Diagn%C3%B3stico"
 	},
 	{
-		"id": 4,
-		"title": "Noticia Teste",
-		"image": "https://www.planetcarsz.com/assets/uploads/images/VEICULOS/F/FERRARI/2003_FERRARI_F360_MODENA_HAMANN//FERRARI_F360_MODENA_HAMANN_2003_01.jpg",
-		"description": "TESTE TESTE TESTE TESTE TESTE",
-		"tag": "produto",
-		"date": "24/05/2022",
-		"link": "https://f360.zendesk.com/hc/pt-br"
-	},
-	{
-		"id": 5,
-		"title": "Noticia Teste 2",
-		"image": "https://www.planetcarsz.com/assets/uploads/images/VEICULOS/F/FERRARI/2003_FERRARI_F360_MODENA_HAMANN//FERRARI_F360_MODENA_HAMANN_2003_01.jpg",
-		"description": "TESTE TESTE TESTE TESTE TESTE",
-		"tag": "produto",
-		"date": "24/05/2022",
-		"link": "https://f361.zendesk.com/hc/pt-br"
-	},
-	{
 		"id": 2,
 		"title": "Saiba como exportar os Detalhes da DRE",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/dre.jpg",
