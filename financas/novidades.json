@@ -1,5 +1,14 @@
 [
 	{
+		"id": 4,
+		"title": "F360° Educa",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/educa.png",
+		"description": "Conheça o F360° Educa, plataforma educacional da F360° voltada para o varejo. Aqui você tem diversos conteúdos pensados para o seu desenvolvimento e evolução dos resultados da sua empresa.",
+		"tag": "educação",
+		"date": "20/06/2022",
+		"link": "https://educa.f360.com.br/"
+	},
+	{
 		"id": 1,
 		"title": "Diagnóstico 360",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/diagnostico.jpg",
