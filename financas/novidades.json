@@ -1,5 +1,14 @@
 [
 	{
+		"id": 5,
+		"title": "Facilidade no pagamento",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/boleto.jpg",
+		"description": "Agora é possível consultar os boletos e notas fiscais referentes a plataforma F360º, clique aqui e saiba como!",
+		"tag": "produto",
+		"date": "07/07/2022",
+		"link": "https://f360.zendesk.com/hc/pt-br/articles/7278040341271"
+	},
+	{
 		"id": 4,
 		"title": "F360° Educa",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/educa.png",
@@ -16,23 +25,5 @@
 		"tag": "produto",
 		"date": "24/05/2022",
 		"link": "https://f360.zendesk.com/hc/pt-br/articles/4422754767895-Diagn%C3%B3stico"
-	},
-	{
-		"id": 2,
-		"title": "Saiba como exportar os Detalhes da DRE",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/dre.jpg",
-		"description": "Saiba como é possível exportar para o Excel os detalhes de uma linha específica da DRE.",
-		"tag": "produto",
-		"date": "24/05/2022",
-		"link": "https://f360.zendesk.com/hc/pt-br/articles/4418576517271"
-	},
-	{
-		"id": 3,
-		"title": "Conheça o Relatório de Conciliação de Cartões",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/cartoes.jpg",
-		"description": "O relatório com os dados relacionados a sua conciliação de cartões pode ser gerado no Excel de uma forma simples e rápida.",
-		"tag": "produto",
-		"date": "24/05/2022",
-		"link": "https://f360.zendesk.com/hc/pt-br/articles/5248948565399"
 	}
 ]
