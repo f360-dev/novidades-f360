@@ -1,14 +1,5 @@
 [
 	{
-		"id": 6,
-		"title": "LIVE EXCLUSIVA",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/live.png",
-		"description": "No dia 23/08 às 18h, Alberto Oyama, Mauro Nomura e outros experts do segmento vão contar todos os segredos sobre fluxo de caixa, plano orçamentário e DRE.",
-		"tag": "lives e webinars",
-		"date": "04/08/2022",
-		"link": "https://bit.ly/3S7ndQ0"
-	},
-	{
 		"id": 5,
 		"title": "Facilidade no pagamento",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/boleto.jpg",
