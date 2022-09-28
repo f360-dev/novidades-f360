@@ -1,14 +1,5 @@
 [
 	{
-		"id": 5,
-		"title": "Facilidade no pagamento",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/boleto.jpg",
-		"description": "Agora é possível consultar os boletos e notas fiscais referentes a plataforma F360º, clique aqui e saiba como!",
-		"tag": "finanças",
-		"date": "07/07/2022",
-		"link": "https://f360.zendesk.com/hc/pt-br/articles/7278040341271"
-	},
-	{
 		"id": 4,
 		"title": "F360° Educa",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/educa1.png",
