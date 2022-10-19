@@ -1,5 +1,14 @@
 [
 	{
+		"id": 5,
+		"title": "Treinamento presencial com Maurício Galhardo",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/feed%20produto%20banner%20(1).png",
+		"description": "Participe do evento no dia 16/11. Garanta 15% de desconto nas inscrições até 28/10, com o cupom: FINANCEIRO23",
+		"tag": "todos",
+		"date": "19/10/2022",
+		"link": "https://educa.f360.com.br/local/kopere_pay/?id=c21&cadastro=1"
+	},
+	{
 		"id": 4,
 		"title": "F360° Educa",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/educa1.png",
