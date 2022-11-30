@@ -1,23 +1,5 @@
 [
 	{
-		"id": 6,
-		"title": "O que esperar da Black Friday 2022?",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/FEED%20DE%20PRODUTOS%202%20-%20CONTE%C3%9ADO%20CLIENTES.png",
-		"description": "Veja como as projeções e expectativas para a Black Friday 2022 podem ajudar na sua estratégia!",
-		"tag": "todos",
-		"date": "08/11/2022",
-		"link": "https://blog.f360.com.br/o-que-esperar-da-black-friday-2022/"
-	},
-	{
-		"id": 5,
-		"title": "Dicas para vender mais na Black Friday",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/FEED%20DE%20PRODUTOS%20-%20CONTE%C3%9ADO%20CLIENTES.png",
-		"description": "Quer aproveitar a Black Friday para zerar o estoque e garantir um bom retorno financeiro no final do ano? Confira as dicas!",
-		"tag": "todos",
-		"date": "03/11/2022",
-		"link": "https://blog.f360.com.br/dicas-para-vender-mais-na-black-friday-2022/"
-	},
-	{
 		"id": 4,
 		"title": "F360° Educa",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/educa1.png",
