@@ -1,5 +1,14 @@
 [
 	{
+		"id": 5,
+		"title": "Ano novo, vida nova?",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/9aa1c2410200fd54d1a8cda72ed074c0b0fa2b48/images/FEED%20DE%20PRODUTOS.png",
+		"description": "Dicas do Maurício Galhardo para começar 2023 com o planejamento financeiro em dia!",
+		"tag": "todos",
+		"date": "13/12/2022",
+		"link": "https://blog.f360.com.br/ano-novo-vida-nova/"
+	},
+	{
 		"id": 4,
 		"title": "F360° Educa",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/educa1.png",
