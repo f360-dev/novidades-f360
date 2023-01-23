@@ -1,5 +1,14 @@
 [
 	{
+		"id": 7,
+		"title": "🔴Live dia 08/02 às 18h00",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20Finan%C3%A7as.png",
+		"description": "Especialistas conversam sobre o Cenário Econômico 2023 e sobre as vantagens do Open Finance. Clique e inscreva-se!",
+		"tag": "Lives",
+		"date": "23/01/2023",
+		"link": "https://bit.ly/3Hot3cB"
+	},
+	{
 		"id": 6,
 		"title": "Indique F360!",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20de%20produtos_.png",
