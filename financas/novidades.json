@@ -1,5 +1,14 @@
 [
 	{
+		"id": 8,
+		"title": "Ganhe prêmios no Indique F360",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20de%20produtos_2.png",
+		"description": "Indique o F360 Finanças para seus amigos! Se eles fecharem negócio, você ganha prêmios incríveis 🎁",
+		"tag": "todos",
+		"date": "27/02/2023",
+		"link": "https://f360.com.br/indique-f360/"
+	},
+	{
 		"id": 7,
 		"title": "🔴Live dia 08/02 às 18h00",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20Finan%C3%A7as.png",
