@@ -1,5 +1,14 @@
 [
 	{
+		"id": 10,
+		"title": "🔴Live dia 28/03 às 19h00",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20Finan%C3%A7as%20(1).png",
+		"description": "Especialistas em tributos e contabilidade expõem sobre os principais tipos de planejamento tributário. Inscreva-se!",
+		"tag": "lives",
+		"date": "15/03/2023",
+		"link": "https://conteudo.f360.com.br/live-planejamento-tributario_f360"
+	},
+	{
 		"id": 9,
 		"title": "Participe do curso Finanças 2 em 1",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Curso%202%20em%201.png",
@@ -22,7 +31,7 @@
 		"title": "🔴Live dia 08/02 às 18h00",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20Finan%C3%A7as.png",
 		"description": "Especialistas conversam sobre o Cenário Econômico 2023 e sobre as vantagens do Open Finance. Clique e inscreva-se!",
-		"tag": "Lives",
+		"tag": "lives",
 		"date": "23/01/2023",
 		"link": "https://bit.ly/3Hot3cB"
 	},
