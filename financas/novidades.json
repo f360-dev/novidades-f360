@@ -1,4 +1,13 @@
 [
+	{
+		"id": 12,
+		"title": "Certificado digital A1",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Certificado%20A1.png",
+		"description": "Quer saber o que é certificado A1 e como ele pode impulsionar a gestão do seu negócio? Continue a leitura e descubra!",
+		"tag": "todos",
+		"date": "30/03/2023",
+		"link": "https://f360.com.br/blog/financas/certificado-digital-a1-entenda-o-que-e-e-descubra-para-que-serve/"
+	},
 		{
 		"id": 11,
 		"title": "Conciliação bancária",
