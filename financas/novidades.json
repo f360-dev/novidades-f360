@@ -1,5 +1,14 @@
 [
 	{
+		"id": 13,
+		"title": "🔴 Live dia 09/05 às 19h00",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Live%2009.05.png",
+		"description": "Participe da transmissão ao vivo e aprenda dicas de fidelização com especialistas na área. Inscrições limitadas!",
+		"tag": "todos",
+		"date": "27/04/2023",
+		"link": "https://bit.ly/446PkEW"
+	},
+	{
 		"id": 12,
 		"title": "Certificado digital A1",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Certificado%20A1.png",
