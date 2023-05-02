@@ -1,6 +1,6 @@
 [
 	{
-		"id": 14,
+		"id": 10,
 		"title": "Vem aí, 2ª edição do Finanças 2 em 1",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Educa%202%20em%201%20Maio.png",
 		"description": "Aprenda sobre gestão financeira e transforme os seus resultados.",
@@ -9,7 +9,7 @@
 		"link": "https://educa.f360.com.br/local/pages/?id=10"
 	},
 	{
-		"id": 13,
+		"id": 9,
 		"title": "🔴 Live dia 09/05 às 19h00",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Live%2009.05.png",
 		"description": "Participe da transmissão ao vivo e aprenda dicas de fidelização com especialistas na área. Inscrições limitadas!",
@@ -18,7 +18,7 @@
 		"link": "https://bit.ly/446PkEW"
 	},
 	{
-		"id": 12,
+		"id": 8,
 		"title": "Certificado digital A1",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Certificado%20A1.png",
 		"description": "Quer saber o que é certificado A1 e como ele pode impulsionar a gestão do seu negócio? Continue a leitura e descubra!",
@@ -27,7 +27,7 @@
 		"link": "https://f360.com.br/blog/financas/certificado-digital-a1-entenda-o-que-e-e-descubra-para-que-serve/"
 	},
 		{
-		"id": 11,
+		"id": 7,
 		"title": "Conciliação bancária",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/FEED%20ConciliacaoBancaria.png",
 		"description": "Clique aqui e veja tudo que você precisa saber sobre esse tema.",
@@ -36,25 +36,16 @@
 		"link": "https://f360.com.br/blog/financas/conciliacao-bancaria-tudo-o-que-voce-precisa-saber/"
 	},
 	{
-		"id": 10,
+		"id": 6,
 		"title": "🔴Live dia 28/03 às 19h00",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20Finan%C3%A7as%20(1).png",
-		"description": "Especialistas em tributos e contabilidade expõem sobre os principais tipos de planejamento tributário. Inscreva-se!",
+		"description": "Especialistas em tributos e contabilidade expõem sobre os principais tipos de planejamento tributário. Assista!",
 		"tag": "lives",
 		"date": "15/03/2023",
-		"link": "https://conteudo.f360.com.br/live-planejamento-tributario_f360"
+		"link": "https://www.youtube.com/live/SXSWMjkoQM0?feature=share"
 	},
 	{
-		"id": 9,
-		"title": "Participe do curso Finanças 2 em 1",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Curso%202%20em%201.png",
-		"description": "Aprenda os conceitos essenciais para a gestão financeira e dicas para operacionalizar no F360 Finanças. Inscreva-se!",
-		"tag": "todos",
-		"date": "02/03/2023",
-		"link": "https://educa.f360.com.br/local/pages/?id=10"
-	},
-	{
-		"id": 8,
+		"id": 5,
 		"title": "Ganhe prêmios no Indique F360",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20de%20produtos_2.png",
 		"description": "Indique o F360 Finanças para seus amigos! Se eles fecharem negócio, você ganha prêmios incríveis 🎁",
@@ -63,7 +54,7 @@
 		"link": "https://f360.com.br/indique-f360/"
 	},
 	{
-		"id": 7,
+		"id": 4,
 		"title": "🔴Live dia 08/02 às 18h00",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20Finan%C3%A7as.png",
 		"description": "Especialistas conversam sobre o Cenário Econômico 2023 e sobre as vantagens do Open Finance. Clique e inscreva-se!",
@@ -72,7 +63,7 @@
 		"link": "https://bit.ly/3Hot3cB"
 	},
 	{
-		"id": 6,
+		"id": 3,
 		"title": "Indique F360!",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20de%20produtos_.png",
 		"description": "Ajude um amigo! Ele ganha um sistema de gestão financeira eficiente e você um presente especial!",
@@ -81,22 +72,13 @@
 		"link": "https://bit.ly/3BOmuwO"
 	},
 	{
-		"id": 5,
+		"id": 2,
 		"title": "Ano novo, vida nova?",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/9aa1c2410200fd54d1a8cda72ed074c0b0fa2b48/images/FEED%20DE%20PRODUTOS.png",
 		"description": "Dicas do Maurício Galhardo para começar 2023 com o planejamento financeiro em dia!",
 		"tag": "todos",
 		"date": "13/12/2022",
 		"link": "https://www.f360.com.br/blog/financas/ano-novo-vida-nova/"
-	},
-	{
-		"id": 4,
-		"title": "F360 Educa",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/educa1.png",
-		"description": "Conheça o F360° Educa, plataforma educacional da F360° voltada para o varejo. Aqui você tem diversos conteúdos pensados para o seu desenvolvimento e evolução dos resultados da sua empresa.",
-		"tag": "educa",
-		"date": "20/06/2022",
-		"link": "https://educa.f360.com.br/"
 	},
 	{
 		"id": 1,
