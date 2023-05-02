@@ -1,10 +1,19 @@
 [
 	{
+		"id": 14,
+		"title": "Vem aí a 2ª edição do Finanças 2 em 1",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Educa%202%20em%201%20Maio.png",
+		"description": "Aprenda sobre gestão financeira e transforme os seus resultados.",
+		"tag": "educa",
+		"date": "02/05/2023",
+		"link": "https://educa.f360.com.br/local/pages/?id=10"
+	},
+	{
 		"id": 13,
 		"title": "🔴 Live dia 09/05 às 19h00",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Live%2009.05.png",
 		"description": "Participe da transmissão ao vivo e aprenda dicas de fidelização com especialistas na área. Inscrições limitadas!",
-		"tag": "todos",
+		"tag": "lives",
 		"date": "27/04/2023",
 		"link": "https://bit.ly/446PkEW"
 	},
@@ -85,7 +94,7 @@
 		"title": "F360 Educa",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/educa1.png",
 		"description": "Conheça o F360° Educa, plataforma educacional da F360° voltada para o varejo. Aqui você tem diversos conteúdos pensados para o seu desenvolvimento e evolução dos resultados da sua empresa.",
-		"tag": "todos",
+		"tag": "educa",
 		"date": "20/06/2022",
 		"link": "https://educa.f360.com.br/"
 	},
