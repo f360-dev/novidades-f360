@@ -1,5 +1,14 @@
 [
 	{
+		"id": 10,
+		"title": "Vem aí a 2ª edição do Finanças 2 em 1",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Educa%202%20em%201%20Maio.png",
+		"description": "Aprenda sobre gestão financeira e transforme os seus resultados",
+		"tag": "Educa",
+		"date": "11/05/2023",
+		"link": "https://educa.f360.com.br/local/pages/?id=10"
+	},
+	{
 		"id": 9,
 		"title": "🔴 Live dia 09/05 às 19h00",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Live%2009.05.png",
