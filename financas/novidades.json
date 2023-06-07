@@ -1,4 +1,13 @@
 [
+		{
+		"id": 12,
+		"title": "Pacotão de novidades",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Sat%C3%A9lite.png",
+		"description": "Acabamos de lançar uma série de funcionalidades que vão deixar todo mundo de queixo caído!",
+		"tag": "todos",
+		"date": "07/06/2023",
+		"link": "https://f360.com.br/blog/inovacao/conheca-as-novidades-do-f360-financas/"
+	},
 	{
 		"id": 11,
 		"title": "Pesquisa Indicadores Financeiros",
