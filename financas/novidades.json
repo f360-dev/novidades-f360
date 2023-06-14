@@ -1,4 +1,13 @@
 [
+	{
+		"id": 13,
+		"title": "Open Finance",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Open%20finance%20Feed.png",
+		"description": "Quer saber mais sobre esse recurso? É só conferir o artigo, clicando aqui!",
+		"tag": "todos",
+		"date": "14/06/2023",
+		"link": "https://f360.com.br/blog/inovacao/open-finance-e-no-f360-financas/"
+	},
 		{
 		"id": 12,
 		"title": "Pacotão de novidades",
