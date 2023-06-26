@@ -1,5 +1,14 @@
 [
 	{
+		"id": 14,
+		"title": "Te esperamos na ABF Franchising Expo",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/ABF%20Expo%202023.png",
+		"description": "De 28 de junho a 01 de julho, no Expo Center Norte, em São Paulo (SP)",
+		"tag": "todos",
+		"date": "26/06/2023",
+		"link": "https://www.abfexpo.com.br/pt/Comprar_Ingresso.html?utm_source=google&utm_medium=cpc&utm_campaign=md_search_institucional_abf_expo_sp_2023&utm_id=19985258530&gclid=Cj0KCQjw7uSkBhDGARIsAMCZNJvJApBe4-iRIP6sxFsSq-Rcr5rzXj20kcC5-0WlqHuSDvqk0B-zBwIaAtVxEALw_wcB"
+	},
+	{
 		"id": 13,
 		"title": "Open Finance",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Open%20finance%20Feed.png",
