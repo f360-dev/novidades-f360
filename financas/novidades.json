@@ -1,5 +1,14 @@
 [
 	{
+		"id": 16,
+		"title": "Conciliação Bancária",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Concilia%C3%A7%C3%A3o%20bancaria.png",
+		"description": "A conciliação bancária é uma tarefa desnecessária e demorada? Mito ou verdade?",
+		"tag": "todos",
+		"date": "19/07/2023",
+		"link": "https://bit.ly/43xI9nX"
+	},
+	{
 		"id": 15,
 		"title": "Fechamento de caixa",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Fechamento%20de%20caixa.png",
