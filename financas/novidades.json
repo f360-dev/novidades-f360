@@ -1,7 +1,7 @@
 [
 	{
 		"id": 17,
-		"title": "🔵 Entenda sobre a funcionalidade",
+		"title": "🔵 Entenda o recurso",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Concilia%C3%A7%C3%A3o%20de%20carto%C3%B5es.png",
 		"description": "A conciliação de cartões te ajuda a evitar prejuízos e cobranças indevidas? Mito ou verdade?",
 		"tag": "todos",
@@ -10,7 +10,7 @@
 	},
 	{
 		"id": 16,
-		"title": "🔵 Entenda sobre a funcionalidade",
+		"title": "🔵 Entenda o recurso",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Concilia%C3%A7%C3%A3o%20bancaria.png",
 		"description": "A conciliação bancária é uma tarefa desnecessária e demorada? Mito ou verdade?",
 		"tag": "todos",
@@ -19,7 +19,7 @@
 	},
 	{
 		"id": 15,
-		"title": "🔵 Entenda sobre a funcionalidade",
+		"title": "🔵 Entenda o recurso",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Fechamento%20de%20caixa.png",
 		"description": "Fechar o caixa no final do dia é apenas uma formalidade? Mito ou verdade?",
 		"tag": "todos",
