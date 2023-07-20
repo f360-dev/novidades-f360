@@ -1,6 +1,6 @@
 [
 	{
-		"id": 17,
+		"id": 11,
 		"title": "🔵 Entenda o recurso",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Concilia%C3%A7%C3%A3o%20de%20carto%C3%B5es.png",
 		"description": "A conciliação de cartões te ajuda a evitar prejuízos e cobranças indevidas? Mito ou verdade?",
@@ -9,7 +9,7 @@
 		"link": "https://bit.ly/44JFpF0"
 	},
 	{
-		"id": 16,
+		"id": 10,
 		"title": "🔵 Entenda o recurso",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Concilia%C3%A7%C3%A3o%20bancaria.png",
 		"description": "A conciliação bancária é uma tarefa desnecessária e demorada? Mito ou verdade?",
@@ -18,7 +18,7 @@
 		"link": "https://bit.ly/43xI9nX"
 	},
 	{
-		"id": 15,
+		"id": 9,
 		"title": "🔵 Entenda o recurso",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Fechamento%20de%20caixa.png",
 		"description": "Fechar o caixa no final do dia é apenas uma formalidade? Mito ou verdade?",
@@ -27,16 +27,7 @@
 		"link": "https://bit.ly/3Dpric5"
 	},
 	{
-		"id": 14,
-		"title": "Te esperamos na ABF Expo 2023",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/ABF%20Expo%202023.png",
-		"description": "De 28 de junho a 01 de julho, no Expo Center Norte, em São Paulo (SP)",
-		"tag": "todos",
-		"date": "26/06/2023",
-		"link": "https://www.abfexpo.com.br/pt/Comprar_Ingresso.html?utm_source=google&utm_medium=cpc&utm_campaign=md_search_institucional_abf_expo_sp_2023&utm_id=19985258530&gclid=Cj0KCQjw7uSkBhDGARIsAMCZNJvJApBe4-iRIP6sxFsSq-Rcr5rzXj20kcC5-0WlqHuSDvqk0B-zBwIaAtVxEALw_wcB"
-	},
-	{
-		"id": 13,
+		"id": 8,
 		"title": "Open Finance",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Open%20finance%20Feed.png",
 		"description": "Quer saber mais sobre esse recurso? É só conferir o artigo, clicando aqui!",
@@ -45,7 +36,7 @@
 		"link": "https://f360.com.br/blog/inovacao/open-finance-e-no-f360-financas/"
 	},
 		{
-		"id": 12,
+		"id": 7,
 		"title": "Pacotão de novidades",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Sat%C3%A9lite.png",
 		"description": "Acabamos de lançar uma série de funcionalidades que vão deixar todo mundo de queixo caído!",
@@ -54,34 +45,7 @@
 		"link": "https://f360.com.br/blog/inovacao/conheca-as-novidades-do-f360-financas/"
 	},
 	{
-		"id": 11,
-		"title": "Pesquisa Indicadores Financeiros",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Pesquisa%20de%20mercado%20-%20%20Indicadores%20financeiros.jpg",
-		"description": "Participe! Em breve, você receberá um conteúdo com muitos insights sobre o mercado!",
-		"tag": "todos",
-		"date": "30/05/2023",
-		"link": "https://bit.ly/3MFVLqH"
-	},
-	{
-		"id": 10,
-		"title": "2ª edição do Finanças 2 em 1",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Finan%C3%A7as%202%20em%201%20-%20MAIO%20NOVO.png",
-		"description": "Aprenda sobre gestão financeira e transforme os seus resultados",
-		"tag": "Educa",
-		"date": "11/05/2023",
-		"link": "https://educa.f360.com.br/local/pages/?id=10"
-	},
-	{
-		"id": 9,
-		"title": "🔴 Live dia 09/05 às 19h00",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Live%2009.05.png",
-		"description": "Participe da transmissão ao vivo e aprenda dicas de fidelização com especialistas na área. Inscrições limitadas!",
-		"tag": "lives",
-		"date": "27/04/2023",
-		"link": "https://bit.ly/446PkEW"
-	},
-	{
-		"id": 8,
+		"id": 6,
 		"title": "Certificado digital A1",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Certificado%20A1.png",
 		"description": "Quer saber o que é certificado A1 e como ele pode impulsionar a gestão do seu negócio? Continue a leitura e descubra!",
@@ -90,7 +54,7 @@
 		"link": "https://f360.com.br/blog/financas/certificado-digital-a1-entenda-o-que-e-e-descubra-para-que-serve/"
 	},
 		{
-		"id": 7,
+		"id": 5,
 		"title": "Conciliação bancária",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/FEED%20ConciliacaoBancaria.png",
 		"description": "Clique aqui e veja tudo que você precisa saber sobre esse tema.",
@@ -99,31 +63,13 @@
 		"link": "https://f360.com.br/blog/financas/conciliacao-bancaria-tudo-o-que-voce-precisa-saber/"
 	},
 	{
-		"id": 6,
-		"title": "🔴Live 28/03",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20Finan%C3%A7as%20(1).png",
-		"description": "Especialistas em tributos e contabilidade expõem sobre os principais tipos de planejamento tributário. Assista!",
-		"tag": "lives",
-		"date": "15/03/2023",
-		"link": "https://www.youtube.com/live/SXSWMjkoQM0?feature=share"
-	},
-	{
-		"id": 5,
+		"id": 4,
 		"title": "Ganhe prêmios no Indique F360",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20de%20produtos_2.png",
 		"description": "Indique o F360 Finanças para seus amigos! Se eles fecharem negócio, você ganha prêmios incríveis 🎁",
 		"tag": "todos",
 		"date": "27/02/2023",
 		"link": "https://f360.com.br/indique-f360/"
-	},
-	{
-		"id": 4,
-		"title": "🔴Live 08/02",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20Finan%C3%A7as.png",
-		"description": "Especialistas conversam sobre o Cenário Econômico 2023 e sobre as vantagens do Open Finance. Clique e assista!",
-		"tag": "lives",
-		"date": "23/01/2023",
-		"link": "https://www.youtube.com/live/KGBqnedTvu0?feature=share"
 	},
 	{
 		"id": 3,
