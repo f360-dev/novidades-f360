@@ -1,5 +1,14 @@
 [
 	{
+		"id": 12,
+		"title": "🔵 Entenda o recurso",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Or%C3%A7amento.png",
+		"description": "Focar apenas na receita é suficiente para ter sucesso financeiro? Mito ou verdade?",
+		"tag": "todos",
+		"date": "21/07/2023",
+		"link": "https://bit.ly/3O4fb9h"
+	},
+	{
 		"id": 11,
 		"title": "🔵 Entenda o recurso",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Concilia%C3%A7%C3%A3o%20de%20carto%C3%B5es.png",
