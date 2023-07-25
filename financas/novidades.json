@@ -1,5 +1,14 @@
 [
 	{
+		"id": 14,
+		"title": "🔵 Entenda o recurso",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Fluxo%20de%20caixa.png",
+		"description": "O fluxo de caixa bem feito é uma estratégia para identificar prejuízos? Mito ou verdade?",
+		"tag": "todos",
+		"date": "25/07/2023",
+		"link": "https://bit.ly/3YawOZG"
+	},
+	{
 		"id": 13,
 		"title": "🔵 Entenda o recurso",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Contas%20a%20pagar%20e%20receber.png",
