@@ -1,5 +1,14 @@
 [
 	{
+		"id": 15,
+		"title": "🔵 Entenda o recurso",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/PDV.png",
+		"description": "Um PDV simples é suficiente para gerir as finanças do negócio? Mito ou verdade? Mito ou verdade?",
+		"tag": "todos",
+		"date": "26/07/2023",
+		"link": "https://bit.ly/474fbit"
+	},
+	{
 		"id": 14,
 		"title": "🔵 Entenda o recurso",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Fluxo%20de%20caixa.png",
