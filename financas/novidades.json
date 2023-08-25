@@ -1,5 +1,14 @@
 [
 	{
+		"id": 21,
+		"title": "Seja um expert no F360 Finanças!",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Certificado.png",
+		"description": "Uma trilha de conhecimento, fornecida pelo F360 Educa, com muito conteúdo sobre gestão financeira e dicas contábeis!",
+		"tag": "todos",
+		"date": "25/08/2023",
+		"link": "https://educa.f360.com.br/local/kopere_pay/?id=c35&pagar=1"
+	},
+	{
 		"id": 20,
 		"title": "Programa de indicação F360",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Indica%20F360.png",
