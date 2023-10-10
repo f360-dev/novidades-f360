@@ -1,5 +1,14 @@
 [
 	{
+		"id": 23,
+		"title": "Prepare-se para a Black Friday!",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/CHECKLIST.png",
+		"description": "O passo a passo ideal para você planejar suas ações, lucrar mais e evitar prejuízos",
+		"tag": "todos",
+		"date": "10/10/2023",
+		"link": "https://conteudo.f360.com.br/checklist-black-friday?utm_source=Plataforma&utm_medium=Feed&utm_campaign=Checklist+BF&utm_id=Checklist"
+	},
+	{
 		"id": 22,
 		"title": "Garanta a sua vaga!",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed-Noticias-planejamentofinanceiro-corrigido.png",
