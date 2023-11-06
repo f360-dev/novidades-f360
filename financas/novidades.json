@@ -1,5 +1,14 @@
 [
 	{
+		"id": 24,
+		"title": "Garanta a sua vaga!",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/2%20em%201%20-%20Dez.png",
+		"description": "Adquira conhecimentos fundamentais sobre gestão financeira e dicas práticas para usar o F360 Finanças",
+		"tag": "todos",
+		"date": "06/11/2023",
+		"link": "https://educa.f360.com.br/local/kopere_pay/?id=c25&cadastro=1&utm_source=Plataforma&utm_medium=Feed&utm_campaign=Educa+2+em+1+Dezembro&utm_id=Educa+2+em+1"
+	},
+	{
 		"id": 23,
 		"title": "Prepare-se para a Black Friday!",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/CHECKLIST.png",
