@@ -1,5 +1,14 @@
 [
 	{
+		"id": 28,
+		"title": "Oportunidade imperdível!",
+		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Cont%C3%A1bil%20-%20Promo.png",
+		"description": "Aproveite 50% de desconto ao adquirir o F360 Contábil. Verifique os termos.",
+		"tag": "todos",
+		"date": "11/03/2024",
+		"link": "https://wa.me/551198875237?text=Quero%20a%20oferta%20do%20F360%20Cont%C3%A1bil!%20"
+	},
+	{
 		"id": 27,
 		"title": "Economize em 2024!",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/7d72b6f1b4e598fc83f6f6fdf35c7a236c710720/images/Feed%20-%20Adi%C3%A7%C3%A3o%20de%20Cnpj.png",
