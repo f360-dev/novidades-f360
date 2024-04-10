@@ -1,22 +1,13 @@
 [
 	{
-		"id": 29,
+		"id": 28,
 		"title": "Presente para o seu negócio!",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/FeedDiadasmaes2024.png",
 		"description": "Adquira o F360 Contábil com 50% de desconto. Verifique as condições.",
 		"tag": "todos",
 		"date": "08/04/2024",
 		"link": "https://bit.ly/3PEZkjf"
-	},
-	{
-		"id": 28,
-		"title": "Oportunidade imperdível!",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Cont%C3%A1bil%20-%20Promo.png",
-		"description": "Aproveite 50% de desconto ao adquirir o F360 Contábil. Verifique os termos.",
-		"tag": "todos",
-		"date": "11/03/2024",
-		"link": "https://wa.me/5511988752378?text=Quero%20a%20oferta%20do%20F360%20Cont%C3%A1bil"
-	},
+	}
 	{
 		"id": 27,
 		"title": "Economize em 2024!",
