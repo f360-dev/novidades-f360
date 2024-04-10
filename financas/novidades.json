@@ -1,21 +1,12 @@
 [
 	{
-		"id": 28,
+		"id": 27,
 		"title": "Presente para o seu negócio!",
 		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/FeedDiadasmaes2024.png",
 		"description": "Adquira o F360 Contábil com 50% de desconto. Verifique as condições.",
 		"tag": "todos",
 		"date": "08/04/2024",
 		"link": "https://bit.ly/3PEZkjf"
-	}
-	{
-		"id": 27,
-		"title": "Economize em 2024!",
-		"image": "https://raw.githubusercontent.com/f360-dev/novidades-f360/7d72b6f1b4e598fc83f6f6fdf35c7a236c710720/images/Feed%20-%20Adi%C3%A7%C3%A3o%20de%20Cnpj.png",
-		"description": "50% de desconto na contratação de novos CNPJs + ativação de contas no Open Finance. Consulte as condições!",
-		"tag": "todos",
-		"date": "27/02/2024",
-		"link": "https://bit.ly/49mGc1o"
 	},
 	{
 		"id": 26,
